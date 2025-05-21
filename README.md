@@ -12,4 +12,4 @@ This is a website for a company that specializes in cars, created by bytebitt (t
 
 You can check out the live demo of this project here:
 
-[Mda Shipping](https://your-demo-link.com)
+[Mda Shipping](https://bytebitt.github.io/mda-shipping/)
