@@ -1,7 +1,13 @@
 @import "tailwindcss";
 
 @layer base {
-    body {
+    header {
+        font-family: 'Inter', sans-serif;
+    }
+    main {
+        font-family: 'Mulish', sans-serif;
+    }
+    .inter {
         font-family: 'Inter', sans-serif;
     }
 }
